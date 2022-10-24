@@ -7,5 +7,5 @@
       "use": "@vercel/static"
     }
   ],
-  "routes": [{ "src": "/(.*)", "dest": "/" }]
+  "routes": [{ "handle": "filesystem" }, { "src": "/(.*)", "dest": "/" }]
 }
