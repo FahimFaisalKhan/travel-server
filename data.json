@@ -1,27 +1,22 @@
 [
   {
     "_id": "6353ddbef321df8c64f3596e",
-    "picture": "images/cox's.jpg",
+    "picture": "images/scoba1.jpg",
     "name": "Bobbie Hurley"
   },
   {
     "_id": "6353ddbe14e7a3e4761aa31a",
-    "picture": "images/32x32",
+    "picture": "images/scoba2.jpg",
     "name": "Goodman Blevins"
   },
   {
     "_id": "6353ddbeacdb2686658be69e",
-    "picture": "images/32x32",
+    "picture": "images/scoba3.jpg",
     "name": "Kent Pittman"
   },
   {
     "_id": "6353ddbe62108dbf0c80dd49",
-    "picture": "images/32x32",
+    "picture": "images/scoba4.jpg",
     "name": "Berry Hodges"
-  },
-  {
-    "_id": "6353ddbef82b30a86110003f",
-    "picture": "images/32x32",
-    "name": "Rosa Walters"
   }
 ]
